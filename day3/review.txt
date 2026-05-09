@@ -1,0 +1,6 @@
+---
+sometimes only sorting solves comparisson problem 
+```
+    todays main logic sorting, stl and the comparison concept
+```
+---

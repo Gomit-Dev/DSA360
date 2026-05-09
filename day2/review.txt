@@ -1,0 +1,70 @@
+---
+
+# 📊 Progress Tracker
+
+## ✅ Completed Topics
+
+* Arrays basics
+* Loops & traversal
+* Functions
+* Pass by value/reference
+* Strings basics
+* Vector basics
+* Basic brute force problem solving
+
+---
+
+## ⚠️ Current Weak Areas
+
+Still normal at your level:
+
+* STL depth
+* Optimization thinking
+* Pattern recognition
+* Clean debugging
+
+We’ll improve these slowly.
+
+---
+
+# 🧠 QUICK CHECK (Answer Mentally)
+
+Before Day 3, make sure you understand:
+
+### Difference between:
+
+```
+string s;
+```
+
+and
+
+```
+vector<char> v;
+```
+```
+vector<char>v is dynamic, string s is not
+```
+---
+
+### Why pass by reference is useful:
+
+```
+void fun(vector<int> &v)
+```
+```
+it helps access variable with address not only value 
+```
+---
+
+### Complexity:
+
+What is complexity of traversing string once?
+
+👉 It should instantly feel like:
+
+```
+O(n)
+```
+
+---

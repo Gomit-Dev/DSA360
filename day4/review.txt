@@ -1,0 +1,176 @@
+# 📘 DSA Journey — Day 4 Review
+
+## 👨‍💻 Student Progress
+
+**Level:** Beginner → Improving Beginner
+**Focus:** C++ + STL Foundations + Problem Solving
+
+---
+
+# ✅ Topics Completed Till Day 4
+
+## 🔹 C++ Fundamentals
+
+* Loops
+* Functions
+* Arrays
+* Strings
+* Pass by value
+* Pass by reference
+
+---
+
+## 🔹 STL Basics
+
+### Learned:
+
+* `vector`
+* `pair`
+* `map`
+* `set`
+* `sort()`
+
+### Practiced:
+
+* Traversal
+* Input/output
+* Sorting
+* Reverse traversal
+* Frequency counting
+
+---
+
+# ✅ Problem Solving Topics Covered
+
+## Arrays
+
+* Reverse array
+* Max/min element
+* Even/odd counting
+* Second largest element
+* Remove duplicates
+
+---
+
+## Strings
+
+* Palindrome check
+* Reverse string
+* Reverse words in sentence
+* Character frequency
+* Anagram checking
+
+---
+
+## Map & Set
+
+* Frequency counting using `map`
+* Distinct elements using `set`
+* Duplicate detection
+* First non-repeating element
+* Majority element basics
+
+---
+
+# 🧠 Important Concepts Understood
+
+## ✔ Time Complexity Basics
+
+* Single traversal → O(n)
+* Nested loops → O(n²)
+
+---
+
+## ✔ Optimization Thinking
+
+Understood why:
+
+* brute force can be slow
+* `map` helps optimize counting problems
+* STL reduces coding complexity
+
+---
+
+# 📊 Current Strengths
+
+* Consistency in daily practice
+* Comfortable with basic coding
+* Improving STL understanding
+* Starting to think logically before coding
+* Completing tasks independently
+
+---
+
+# ⚠️ Current Weak Areas
+
+Still needs improvement in:
+
+* Faster problem-solving
+* Pattern recognition
+* Debugging confidence
+* Optimization intuition
+* Writing cleaner code
+
+---
+
+# 🚀 Performance Summary
+
+## Day 1
+
+✔ Arrays + Vector basics completed
+
+## Day 2
+
+✔ Functions + Strings completed
+
+## Day 3
+
+✔ Sorting + Pair + STL practice completed
+
+## Day 4
+
+✔ Map + Set + Frequency problems completed
+
+---
+
+# 💡 Most Important Learning Till Now
+
+Whenever a problem involves:
+
+* frequency
+* duplicates
+* unique elements
+* counting
+
+Think:
+
+```cpp
+map / set
+```
+
+---
+
+# 🎯 Next Target
+
+Upcoming Topics:
+
+* Stack
+* Queue
+* Valid Parentheses
+* Next Greater Element
+* Interview-style logic building
+
+---
+
+# 🏆 Mentor Review
+
+Strong start.
+The biggest positive sign is consistency.
+You are solving problems instead of only watching tutorials.
+That habit alone will make a huge difference over the next few months.
+
+Keep going step by step.
+No skipping fundamentals.
+No rushing toward advanced topics.
+
+Momentum is building well. 💪

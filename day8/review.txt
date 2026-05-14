@@ -1,0 +1,127 @@
+---
+
+# 📊 DAY 8 REVIEW — RECURSION (FOUNDATION)
+
+## ✅ What You Learned Today
+
+### 🔹 Core Concepts
+
+* What recursion is (function calling itself)
+* Base case (stopping condition)
+* Recursive call (smaller problem)
+* Call stack flow
+
+---
+
+### 🔹 Problems You Implemented
+
+* Print N → 1 ✅
+* Sum of N numbers ✅
+* Factorial (fixed after feedback) ✅
+* Reverse array (in-place recursion) ✅
+* Palindrome check ✅
+
+---
+
+## 🧠 BIG CONCEPT UNLOCKED
+
+### 👉 Two Types of Recursion
+
+| Type           | Example        | Return? |
+| -------------- | -------------- | ------- |
+| Compute result | factorial, sum | ✅ Yes   |
+| Modify data    | reverse array  | ❌ No    |
+
+---
+
+## 🔥 Most Important Understanding (Today)
+
+You understood:
+
+```text
+“Recursion is breaking problem into smaller versions of itself”
+```
+
+AND
+
+```text
+“Not all recursion needs return”
+```
+
+👉 This is a **major milestone**
+
+---
+
+# 📈 YOUR CURRENT LEVEL
+
+### Before Recursion:
+
+```text
+Beginner (STL + basic problems)
+```
+
+### After Today:
+
+```text
+Early Intermediate (Recursion thinking started)
+```
+
+---
+
+# ⚠️ WEAK AREAS (NORMAL)
+
+Still need improvement in:
+
+* Visualizing recursion tree
+* Confidence in complex recursion
+* Writing recursion without hesitation
+
+We fix this next.
+
+---
+
+# 🧠 CONCEPT CHECK (FINAL)
+
+Make sure you can answer instantly:
+
+### 1.
+
+What are the 2 mandatory parts of recursion?
+
+👉 Answer:
+
+```text
+Base case + recursive call
+```
+
+---
+
+### 2.
+
+Why is this dangerous?
+
+```cpp
+fact(n){
+    return n * fact(n-1);
+}
+```
+
+👉 Answer:
+
+```text
+No base case → infinite recursion
+```
+
+---
+
+### 3.
+
+Why did reverse array not need return?
+
+👉 Answer:
+
+```text
+Because we modified array using reference
+```
+
+---
